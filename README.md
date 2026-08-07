@@ -39,9 +39,8 @@ If I dont know something, I will to investigate about it :shipit:
 
 
 ## 🌐 Socials
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AnisanYT) 
-> [!NOTE]
-> For now I have not a portfolio. I am working on it :godmode:	
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-anisan.vercel.app/#contact) 
+:godmode:	
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mejia-5559b3232/)
 
