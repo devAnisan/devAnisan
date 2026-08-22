@@ -36,7 +36,7 @@ If I dont know something, I will to investigate about it :shipit:
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image]([https://img.shields.io/badge/C#-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/Csharp-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white))
+![image](https://img.shields.io/badge/Csharp-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 ## 🌐 Socials
